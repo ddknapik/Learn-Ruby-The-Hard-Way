@@ -1,0 +1,4 @@
+h1. Learn Ruby The Hard Way
+
+My pieces of code written while following the great tutorial of Zed A. Shaw.
+"http://ruby.learncodethehardway.org/book/":http://ruby.learncodethehardway.org/book/
